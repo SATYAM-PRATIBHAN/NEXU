@@ -1,0 +1,30 @@
+[
+  {
+      "question": "What is NEXU?",
+      "answer": "NEXU is a comprehensive project management tool designed to assist teams in planning, executing, and monitoring projects effectively. It offers an intuitive interface combined with powerful features that help streamline workflows, enhance collaboration, and improve productivity across various industries."
+  },
+  {
+      "question": "How can I sign up for NEXU?",
+      "answer": "You can easily sign up for NEXU by visiting our official website and clicking on the 'Sign Up' button located on the homepage. The registration process is straightforward: just fill in the required details, follow the prompts, and you’ll be ready to start managing your projects shortly."
+  },
+  {
+      "question": "Is NEXU suitable for small businesses?",
+      "answer": "Absolutely! NEXU is designed to be scalable, making it suitable for businesses of all sizes, including small businesses. With features tailored to meet the unique needs of smaller teams, it helps manage projects efficiently while keeping costs manageable."
+  },
+  {
+      "question": "What features does NEXU offer?",
+      "answer": "NEXU provides a wide range of features to support effective project management. These include task management tools, real-time team collaboration options, customizable project timelines, insightful reporting capabilities, and seamless integration with other software, all aimed at improving team productivity and project success."
+  },
+  {
+      "question": "Can I integrate NEXU with other software?",
+      "answer": "Yes, NEXU supports integrations with many popular tools such as Slack, Google Drive, Trello, and others. This flexibility allows you to connect your existing tools and workflows, ensuring that your team can work more efficiently and stay in sync across platforms."
+  },
+  {
+      "question": "Is there a mobile app for NEXU?",
+      "answer": "No, there is not a mobile app for NEXU yet, but will be in near future for better productivity and easy usage."
+  },
+  {
+      "question": "How does NEXU ensure data security?",
+      "answer": "NEXU prioritizes data security by implementing industry-standard security measures, including data encryption during transmission and storage, regular system backups, and strict access controls. We understand how critical your data is and are committed to protecting your information from unauthorized access."
+  }
+]
