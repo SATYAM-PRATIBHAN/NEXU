@@ -2,6 +2,8 @@
 
 A modern project management application built with Next.js, featuring sprint management, issue tracking, and team collaboration capabilities.
 
+## https://nexu-972ja48sm-satyampratibhan-gmailcoms-projects.vercel.app/
+
 ## 🚀 Features
 
 - **User Authentication** - Secure authentication powered by Clerk
