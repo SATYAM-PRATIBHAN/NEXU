@@ -2,7 +2,7 @@
 
 A modern project management application built with Next.js, featuring sprint management, issue tracking, and team collaboration capabilities.
 
-## [Live Preview](https://nexu-hutxrviks-satyampratibhan-gmailcoms-projects.vercel.app) - It's deployed on vercel.
+## [Live Preview](https://nexu-ncdn50xfs-satyampratibhan-gmailcoms-projects.vercel.app) - It's deployed on vercel.
 
 ## 🚀 Features
 
